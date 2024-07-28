@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server : {
-    port:"https://deloy-test-umber.vercel.app/",
+    
     port: 3000,
   }
 })
